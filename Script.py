@@ -5,7 +5,7 @@ Mʏ Nᴀᴍᴇ Is {bot}.
 
 I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ Yᴏᴜʀ Gʀᴏᴜᴘ Oʀ Jᴏɪɴ Oᴜʀ Gʀᴏᴜᴘ</b>"""
     
-    HELP_TXT = "Hᴇʏ {}\nHow May I Help You"
+    HELP_TXT = "Hᴇʏ {}\nHow May I Help You sir/ma"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
 ✯ Dᴇᴠᴇʟᴏᴩᴇʀ: Maltexade
