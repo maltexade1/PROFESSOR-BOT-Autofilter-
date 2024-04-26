@@ -225,6 +225,7 @@ Wᴇʟᴄᴏᴍᴇ ᴛᴏ {chat}.
 🏷 Tɪᴛʟᴇ: <a href={url}>{title}</a>
 🎭 Gᴇɴʀᴇꜱ: {genres}
 📆 Yᴇᴀʀ: <a href={url}/releaseinfo>{year}</a>
+💢 Synopsis: {plot}
 🌟 Rᴀᴛɪɴɢ: <a href={url}/ratings>{rating}</a>/10"""
    
   
