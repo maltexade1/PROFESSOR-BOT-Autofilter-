@@ -29,7 +29,7 @@ python-dotenv==0.21.1
 gTTS==2.3.1
 Pillow==10.0.1
 psutil==5.9.4
-NumPy
+numpy==1.26.4
 wheel
 ujson
 wget
