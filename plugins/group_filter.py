@@ -216,7 +216,7 @@ async def auto_filter(client, msg, spoll=False):
             btn = [[InlineKeyboardButton(text=f"{file.file_name}", callback_data=f'{pre}#{req}#{file.file_id}'),
                     InlineKeyboardButton(text=f"{get_size(file.file_size)}", callback_data=f'{pre}#{req}#{file.file_id}')] for file in files ] 
 
-    btn.insert(0, [InlineKeyboardButton("Join Wallpaper Channel", url='https://t.me/wallpaperarsenal01)])
+    btn.insert(0, [InlineKeyboardButton("Join Wallpaper Channel", url='https://t.me/wallpaperarsenal01')])
     if offset != "":
         key = f"{message.chat.id}-{message.id}"
         temp.GP_BUTTONS[key] = search
