@@ -14,6 +14,11 @@ from typing import Union, Optional, AsyncGenerator
 from plugins import web_server 
 from aiohttp import web
 
+from dotenv import load_dotenv
+
+# Load environment variables from the .env file
+load_dotenv()
+
 # Get logging configurations
 logging.config.fileConfig("logging.conf")
 logging.getLogger().setLevel(logging.INFO)
